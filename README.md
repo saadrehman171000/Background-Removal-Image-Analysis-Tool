@@ -32,8 +32,8 @@ The tool uses OpenAI's GPT-4 Vision API to analyze images and extract metadata i
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd BackgroundRemoval
+   git clone https://github.com/saadrehman171000/Background-Removal-Image-Analysis-Tool.git
+   cd "Background-Removal-Image-Analysis-Tool.git"
    ```
 
 2. **Install dependencies**
